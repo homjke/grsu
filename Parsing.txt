@@ -1,4 +1,0 @@
-Host=d104.aa.net, request="GET /shuttle/countdown/ HTTP/1.0", timestamp=Sat Jul 01 01:00:13 BRT 1995, HTTPReplyCode=200, replyBytes=3985
-Host=129.94.144.152, request="GET / HTTP/1.0", timestamp=Sat Jul 01 01:00:13 BRT 1995, HTTPReplyCode=200, replyBytes=7074
-Host=unicomp6.unicomp.net, request="GET /shuttle/countdown/count.gif HTTP/1.0", timestamp=Sat Jul 01 01:00:14 BRT 1995, HTTPReplyCode=200, replyBytes=40310
-Host=unicomp6.unicomp.net, request="GET /images/NASA-logosmall.gif HTTP/1.0", timestamp=Sat Jul 01 01:00:14 BRT 1995, HTTPReplyCode=200, replyBytes=786
